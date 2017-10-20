@@ -4,7 +4,9 @@
 *, *::after, *::before {
     box-sizing: inherit
 }
-
+.star-new::before {
+    content: url({{ site.baseurl }}/assets/img/Artboard 2.png)
+}
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
     font-family: sans-serif;
