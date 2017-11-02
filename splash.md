@@ -3,6 +3,9 @@ layout: splash
 permalink: /splash/
 ---
 
+<style> .usa-grid {max-width: none;}
+.usa-grid > section {background-color: #000;}
+
 <div class="usa-grid">
 <section class="usa-width-one-half">
 <a href="https://unstats.un.org/">
