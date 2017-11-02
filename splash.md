@@ -12,9 +12,9 @@ permalink: /splash/
 <div class="usa-grid" style="background-color: #fff;">
 <section class="usa-width-one-half">
 <a href="https://unstats.un.org/">
-<img class="" src="{{ site.baseurl }}/assets/img/en-sdg-goals-logo.png" alt="SDG logo" />
+<img class="" src="{{ site.baseurl }}/assets/img/en-sdg-goals-logo.png" alt="SDG logo" width="30%;"/>
 </a>
-<h1>
+<h1 style="font-family: 'Open Sans Condensed', sans-serif;">
 MEASURING AMERICA:<br/>
 US STATISTICS FOR<br/>
 SUSTAINABLE DEVELOPMENT
