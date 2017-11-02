@@ -1,0 +1,32 @@
+{% include head.html %}
+
+            <a class="skipnav" href="#main-content">Skip main navigation</a>
+
+            <header role="banner" class="fixed-header">
+                <div class="usa-disclaimer {{ site.github.environment }} {{ jekyll.environment }}">
+                    <div class="usa-grid">
+                        <span class="usa-disclaimer-official">
+                          {% if site.github.environment == 'dotcom' %}
+                            This is a staging site used to update and preview indicator data
+                          {% else %}
+                            This is an official website of the United States government                          
+                          {% endif %}
+                        </span>
+                        <span class="language-toggle">
+                        {% if page.lang == 'en' %}
+                          <a class='pull-right lang es' data-lang='es' href='{{site.baseurl}}/es{{page.url | remove: 'index.html'}}'>Español</a>
+                        {% else %}
+                          <a class='pull-right lang'  data-lang='en' href='{{site.baseurl}}{{page.url | replace_first:'/es', ''}}'>English</a>
+                        {% endif %}
+                        </span>
+                        {% if site.github.environment == 'dotcom' %}
+                          <a href="{{ site.baseurl }}/admin" class="login-link">Login / Logout</a>
+                        {% endif %}
+                        <span class="usa-disclaimer-stage">{{ t.disclaimer-wip }}</span>
+                    </div>
+                </div>
+</header>
+
+{{ content }}
+
+{% include footer.html %}
