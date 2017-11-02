@@ -14,7 +14,7 @@ permalink: /splash/
 <a href="https://unstats.un.org/">
 <img class="" src="{{ site.baseurl }}/assets/img/en-sdg-goals-logo.png" alt="SDG logo" width="30%;"/>
 </a>
-<p style="font-family: 'Open Sans Condensed', sans-serif; text-align: right; font-size: 4.1em; line-height: 1; margin: 0 0 10px;">
+<p style="font-family: 'Open Sans Condensed', sans-serif; text-align: right; font-size: 3.2em; line-height: 1; margin: 0 0 10px;">
 MEASURING AMERICA:<br/>
 US STATISTICS FOR<br/>
 SUSTAINABLE DEVELOPMENT
