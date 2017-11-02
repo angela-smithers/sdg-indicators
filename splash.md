@@ -5,6 +5,7 @@ permalink: /splash/
 
 <style> .usa-grid {max-width: none;}
 .usa-grid > section {background-color: #000;}
+</style>
 
 <div class="usa-grid">
 <section class="usa-width-one-half">
