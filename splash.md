@@ -14,14 +14,14 @@ permalink: /splash/
 <a href="https://unstats.un.org/">
 <img class="" src="{{ site.baseurl }}/assets/img/en-sdg-goals-logo.png" alt="SDG logo" width="30%;"/>
 </a>
-<h1 style="font-family: 'Open Sans Condensed', sans-serif; text-align: right; font-size: 4.1em;">
+<p style="font-family: 'Open Sans Condensed', sans-serif; text-align: right; font-size: 4.1em; line-height: 1;">
 MEASURING AMERICA:<br/>
 US STATISTICS FOR<br/>
 SUSTAINABLE DEVELOPMENT
-</h1>
-<span>Official US Federal Statistics for the UN Sustainable Development Goals
+</p>
+<span style="color: crimson; float: right; font-size: 1.4em;">Official US Federal Statistics for the UN Sustainable Development Goals
 </span>
-<p>START HERE <img class="" src="{{ site.baseurl }}/assets/img/play_button.png" alt="play statistics" /></p>
+<p style="font-family: 'Open Sans Condensed', sans-serif; text-align: right; font-size: 2.1em; line-height: 1;">START HERE <img class="" src="{{ site.baseurl }}/assets/img/play_button.png" alt="play statistics" /></p>
 </section>
 <section class="usa-width-one-half">
 <a href="{{ site.baseurl }}">
