@@ -21,7 +21,8 @@ SUSTAINABLE DEVELOPMENT
 </p>
 <span style="color: crimson; float: right; font-size: 1.4em;">Official US Federal Statistics for the UN Sustainable Development Goals
 </span>
-<p style="font-family: 'Open Sans Condensed', sans-serif; text-align: right; font-size: 2.1em; line-height: 1; clear: both;">START HERE <img class="" src="{{ site.baseurl }}/assets/img/play_button.png" alt="play statistics" /></p>
+<p style="font-family: 'Open Sans Condensed', sans-serif; text-align: right; font-size: 2.1em; line-height: 1; clear: both;">START HERE <a href="{{ site.baseurl }}"><img class="" src="{{ site.baseurl }}/assets/img/play_button.png" alt="play statistics" /></a>
+</p>
 </section>
 
 <section class="usa-width-one-half">
