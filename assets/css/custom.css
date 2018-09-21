@@ -47,7 +47,7 @@ body {
 
     header .site-navbar .logo-home, .login-link {
         display: none !important;
-        height: 65px;
+        height: 65px !important;
     }
 
     header.fixed-header .site-navbar ul li,
