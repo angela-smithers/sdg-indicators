@@ -20,7 +20,7 @@ body {
     .logo-home-mobile {
         margin : 7px 0 0 15px;
         width : 100px;
-        height : 40px;        
+        height : 32px;        
         display : block;
         float: left;
         text-indent: -99999em;
@@ -47,7 +47,6 @@ body {
 
     header .site-navbar .logo-home, .login-link {
         display: none !important;
-        height: 65px !important;
     }
 
     header.fixed-header .site-navbar ul li,
