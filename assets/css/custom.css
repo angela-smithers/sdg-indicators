@@ -6,7 +6,7 @@ body {
     float: left;
     text-indent: -99999em;
     overflow : hidden;
-    background: url('../../assets/img/logo.png');
+    background: url('../../assets/img/en-sdg-goals-logo.png');
     background-size : cover;
     background-repeat: no-repeat;
 }
@@ -202,7 +202,7 @@ a.nav-toggle {
         float: left;
         text-indent: -99999em;
         overflow : hidden;
-        background: url('../../assets/img/logo.png');
+        background: url('../../assets/img/en-sdg-goals-logo.png');
         background-size : cover;
         background-repeat: no-repeat;
     }
